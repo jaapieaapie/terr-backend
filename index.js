@@ -23,7 +23,7 @@ admin.initializeApp({
 const con = mysql.createConnection({
     host: "localhost",
     user: "jaap",
-    password: "1Pokemon",
+    password: "Secret",
     database: "terr"
 });
 
